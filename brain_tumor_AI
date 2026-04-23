@@ -1,1 +1,12 @@
-
+brain-tumor-ai/
+│
+├── app.py
+├── my_model.keras
+├── tumor_knowledge.txt
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── images/
+    ├── mri_result.png
+    ├── gradcam.png
+    └── chatbot.png
