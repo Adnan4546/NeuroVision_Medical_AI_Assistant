@@ -61,7 +61,7 @@ Streamlit UI
 ## ▶️ Run Project
 
 ```bash
-git clone https://github.com/your-username/brain-tumor-ai.git
+git clone https://github.com/Adnan4546/NeuroVision_Medical_AI_Assistant
 cd brain-tumor-ai
 pip install -r requirements.txt
 streamlit run app.py
